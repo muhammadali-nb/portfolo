@@ -1,6 +1,6 @@
 <template>
   <Container>
-    <div class="h-screen  flex flex-col-reverse  sm:flex-row items-center sm:justify-between">
+    <div class="h-screen flex flex-col-reverse sm:flex-row items-center justify-center sm:justify-between">
       <div class="flex sm:block flex-col items-center ">
         <h1 class="text-5xl text-indigo-500 font-medium">Hi, i'm Muhammadali</h1>
         <h3 class="text-3xl">Frontend Developer</h3>
